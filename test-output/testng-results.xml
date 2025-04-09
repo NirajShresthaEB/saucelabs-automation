@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T12:28:03 NPT" name="Default suite" finished-at="2025-04-08T12:28:06 NPT" duration-ms="2584">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T12:28:03 NPT" name="Default test" finished-at="2025-04-08T12:28:06 NPT" duration-ms="2584">
+      <class name="com.niraj.eb.testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.niraj.eb.testcases.LoginTest@6ae5aa72]" started-at="2025-04-08T12:28:03 NPT" name="setUp" finished-at="2025-04-08T12:28:05 NPT" duration-ms="2072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.niraj.eb.testcases.LoginTest@6ae5aa72]" started-at="2025-04-08T12:28:05 NPT" name="loginTest" finished-at="2025-04-08T12:28:06 NPT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.niraj.eb.testcases.LoginTest@6ae5aa72]" started-at="2025-04-08T12:28:06 NPT" name="tearDown" finished-at="2025-04-08T12:28:06 NPT" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.niraj.eb.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
