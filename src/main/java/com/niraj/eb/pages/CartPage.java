@@ -23,11 +23,11 @@ public class CartPage extends TestBase{
 	
 	//Actions
 	
-	public CheckoutInformation checkOut() {
+	public CheckOutInfoPage checkOut() {
 		
 		checkOut.click();
 		
-		return new CheckoutInformation();
+		return new CheckOutInfoPage();
 		
 	}
 	
@@ -40,4 +40,4 @@ public class CartPage extends TestBase{
 }
 
 
-}
+
